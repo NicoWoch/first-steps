@@ -11,7 +11,5 @@ class TestApp(App):
         return MainWidget()
 
 
-
-
 if __name__ == '__main__':
     TestApp().run()
